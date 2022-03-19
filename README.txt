@@ -1,17 +1,16 @@
-Rubic Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
 
-Product Page: https://wwww.devcrud.com/
 
-Credits:
+a html web site to guide you on your next education institution choosinfg and vcarious career oppertunities..
+lets build this .
 
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
+ameenbaasim@gmail.com
 
-    Icons:
+credits:
+
+Icons:
 		Themify Icons: 		(https://themify.me/themify-icons)
 
 	Other:
 		jQuery: 			(https://www.jquery.com)
 		Bootstrap: 			(https://www.getbootstrap.com)
 		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix) 
-
